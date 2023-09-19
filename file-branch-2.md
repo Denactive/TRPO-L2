@@ -1,1 +1,1 @@
-Этот файл file-branch-2 из main
+Этот файл file-branch-2 смердженный
